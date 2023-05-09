@@ -13,3 +13,8 @@ Proficient in...
    - Matplotlib
    - Sympy
  - Lua
+
+<br/>
+
+Learning...
+ - pygame
