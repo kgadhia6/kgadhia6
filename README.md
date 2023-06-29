@@ -6,8 +6,7 @@ Interested in applied & computational mathematics.
 
 <br/>
 
-Proficient in...
- - LaTeX
+Somewhat proficient in...
  - Python
    - Numpy
    - Matplotlib
@@ -15,6 +14,3 @@ Proficient in...
  - Lua
 
 <br/>
-
-Learning...
- - pygame
