@@ -6,11 +6,15 @@ Interested in applied & computational mathematics.
 
 <br/>
 
-Somewhat proficient in...
+Proficient in the following languages and/or technologies:
  - Python
    - Numpy
    - Matplotlib
    - Sympy
+ - C# / CSharp
  - Lua
 
 <br/>
+
+Currently learning the following languages and/or technologies:
+ - Godot
